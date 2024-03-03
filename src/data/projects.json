@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Multi insurance management system",
+      "imageSrc": "projects/mims.png",
+      "description": "A web application built using SpringBoot, as part of my course work on Secure Software Coding where OWASP security aspects was incorporated.",
+      "skills": ["skills/java-original-wordmark.png", "skills/spring-original.png", "skills/javascript-original.png"],
+      "source": "https://github.com/SwathiSelvakumaran/ENPM809-Secure-Software-Coding.git"
+    },
+    {
+      "title": "ELK Stack for Redis & Haproxy",
+      "imageSrc": "projects/elk.png",
+      "description": "Monitors Redis & Haproxy with ELK Stack (Elasticsearch, Logstash, Kibana & Filebeat) for caching & load balancing insights.",
+      "skills": ["skills/elasticco_kibana-icon.png", "skills/redis-original.png"],
+      "source": "https://github.com/SwathiSelvakumaran/Redis-Haproxy-Performance-Monitoring-Stack.git"
+    },
+    {
+      "title": "AlgoLab",
+      "imageSrc": "projects/algolab.png",
+      "description": "A web application built using ReactJs and SpringBoot, developed using a microservice architecture and hosted on AWS Cloud.",
+      "skills": ["skills/react.png", "skills/mongodb.png", "skills/spring-original.png"],
+      "source": "https://github.com/SwathiSelvakumaran/ENPM-613-Algolab"
+    }
+  ]

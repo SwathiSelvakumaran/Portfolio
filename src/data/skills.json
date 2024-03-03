@@ -1,0 +1,30 @@
+[
+    {
+      "title": "SpringBoot",
+      "imageSrc": "skills/spring-original.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java-original-wordmark.png"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "skills/git-original.png"
+    },
+    {
+      "title": "Apache Tomcat",
+      "imageSrc": "skills/tomcat-original.png"
+    },
+    {
+      "title": "SQL Server",
+      "imageSrc": "skills/microsoftsqlserver-plain.png"
+    },
+    {
+      "title": "Oracle",
+      "imageSrc": "skills/oracle-original.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skills/amazonwebservices-original-wordmark.png"
+    }
+  ]

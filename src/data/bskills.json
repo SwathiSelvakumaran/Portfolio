@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Node.js",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Nginx",
+      "imageSrc": "skills/nginx-original.png"
+    },
+    {
+      "title": "Selenium",
+      "imageSrc": "skills/selenium-original.png"
+    },
+    {
+      "title": "Redis",
+      "imageSrc": "skills/redis-original.png"
+    },
+    {
+      "title": "Jenkins",
+      "imageSrc": "skills/jenkins-original.png"
+    },
+    {
+      "title": "Elastic search",
+      "imageSrc": "skills/elasticsearch.png"
+    },
+    {
+      "title": "Kibana",
+      "imageSrc": "skills/elasticco_kibana-icon.png"
+    }
+  ]

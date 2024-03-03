@@ -1,0 +1,27 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Kubernetes",
+      "imageSrc": "skills/kubernetes-plain.png"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skills/docker-original.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    }
+    
+  ]

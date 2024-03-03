@@ -1,0 +1,42 @@
+[
+    {
+      "role": "Graduate Student Assistant - Part time",
+      "organisation": "University of Maryland",
+      "startDate": "Jan, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Developed and maintained software solutions to streamline 100's of international student, faculty, and scholar inquiries, enhancing efficiency in resolving queries related to student visas and work status.",
+        "Implemented data collection and updating procedures, ensuring accuracy and compliance with project requirements."
+      ],
+      "imageSrc": "history/umd.png"
+    },
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "Glatfelter Insurance Group",
+      "startDate": "May, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": [
+        "Established new applications/safes within the CyberArk vault and added dynamic connection to the vault through the Centralized Credential Provider using RESTful APIs.",
+        "Improved secure password storage for 80+ mule applications consisting of 45+ database connections, 6+ external connections,  5+ SFTP connections.",
+        "Collaborated with a cross-functional team to design and develop scalable backend solutions."
+      ],
+      "imageSrc": "history/gig.png"
+    },
+    {
+      "role": "Software Engineer II",
+      "organisation": "Software AG",
+      "startDate": "Dec, 2019",
+      "endDate": "Jul, 2022",
+      "experiences": [
+        "Designed the system architecture and implemented the complete back-end(using Java) of Password change management for webMethods.io webClient",
+        "Worked with the team on Junit framework for backend using Mockito gaining 80% Automated test coverage for the product.",
+        "Implemented the back-end(using Java) for running MFT in two mode(onPremise and cloud) covering 75% of the onPremise features moved to cloud.",
+        "Developed and deployed 2 default FTPS and SFTP listeners and 2 Virtual folders pointing to AWS S3 bucket & Azure transitioning the product from onPremise to cloud using Kubernetes.",
+        "Optimized the product performance by reducing CPU usage from 100% to 50% faced in customer environment.",
+        "Designed, implemented and maintained, Java code for monitoring file system changes and convert such events to product specific artefacts achieving performance of 88%.",
+        "Eradicated 50+  customer, internal and security issues for product quality improvement.",
+        "Conducted code reviews and mentored 2 interns by providing knowledge training on webMethods ActiveTransfer, webMethods.io MFT and JAVA."
+      ],
+      "imageSrc": "history/sag.png"
+    }
+  ]
